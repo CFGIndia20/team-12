@@ -30,3 +30,5 @@ Route::get('/home', 'HomeController@index')->name('home');
 //         echo $compliant;
 //     }
 // });
+
+Route::get('/complaints','ComplaintController@index');
