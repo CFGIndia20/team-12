@@ -26,30 +26,14 @@ Route::get('/contact', function () {
 });
 
 
-Route::get('/admin', function () {
-    return view('admin.dashboard');
+Route::get('/dashboard', function () {
+    return view('analysis_dashboard.dashboard');
 });
-
-
-Route::get('/table', function () {
-    return view('admin.table');
-});
-
 
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
-Route::post('/complaint/{id}/complaint', 'ComplaintController@status');
 
 Route::resource('citizen', 'SMSsController');
 
-// Route::get('/citizen/{id}/complaint',function($id){
-//     $citizen = Citizen::find($id);
-//     foreach( $citizen->complaints as $compliant){
-//         echo $compliant;
-//     }
-// });
-
 Route::resource('complaints', 'ComplaintController');
-
-Route::get('/complaints', 'ComplaintController@index');
