@@ -35,5 +35,5 @@ Route::post('/complaint/{id}/complaint', 'ComplaintController@status');
 //     }
 // });
 
-Route::get('/complaints','ComplaintController@index');
+Route::resource('complaints','ComplaintController');
 

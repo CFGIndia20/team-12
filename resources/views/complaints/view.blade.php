@@ -43,12 +43,12 @@
                                          <tbody id='myTable'>
                                         @foreach($complaints as $complaint)
                                             <tr>
-                                            <td><a style="color: black" href="/complaint/{{$complaint->id}}">{{$complaint->id}}</a></td>
-                                            <td><a style="color: black" href="/complaint/{{$complaint->id}}">{{$complaint->category_id}}</a></td>
-                                            <td><a style="color: black" href="/complaint/{{$complaint->id}}">{{$complaint->location}}</a></td>
-                                            <td><a style="color: black" href="/complaint/{{$complaint->id}}">{{$complaint->description}}</a></td>
-                                            <td><a style="color: black" href="/complaint/{{$complaint->id}}">{{$complaint->complaint_status_id}}</a></td>
-                                            <td><a href='/complaint/{{$complaint->id}}'><button style="cursor:pointer" class='btn btn-info btn-fill'>View</button></a></td>
+                                            <td><a style="color: black" href="/complaints/{{$complaint->id}}">{{$complaint->id}}</a></td>
+                                            <td><a style="color: black" href="/complaints/{{$complaint->id}}">{{$complaint->category_id}}</a></td>
+                                            <td><a style="color: black" href="/complaints/{{$complaint->id}}">{{$complaint->location}}</a></td>
+                                            <td><a style="color: black" href="/complaints/{{$complaint->id}}">{{$complaint->description}}</a></td>
+                                            <td><a style="color: black" href="/complaints/{{$complaint->id}}">{{$complaint->complaint_status_id}}</a></td>
+                                            <td><a href='/complaints/{{$complaint->id}}'><button style="cursor:pointer" class='btn btn-info btn-fill'>View</button></a></td>
                                             </tr>
                                         @endforeach
                                         
