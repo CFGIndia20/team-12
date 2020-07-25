@@ -26,6 +26,7 @@ class ComplaintController extends Controller
      */
     public function create()
     {
+
         //
     }
 
@@ -82,6 +83,7 @@ class ComplaintController extends Controller
      */
     public function destroy($id)
     {
+
         //
 
     }

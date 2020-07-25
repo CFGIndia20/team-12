@@ -28,17 +28,17 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-
+    <!-- START nav -->
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container-fluid px-lg-5">
-	      <a class="navbar-brand" href="/index">JANAAGRAHA: centre for citizenship and democracy</a>
+	      <a class="navbar-brand" href="/">JANAAGRAHA: centre for citizenship and democracy</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	        	<li class="nav-item active"><a href="/index" class="nav-link">Home</a></li>
+	        	<li class="nav-item active"><a href="/" class="nav-link">Home</a></li>
 	          <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
 	        </ul>
 	      </div>
@@ -354,8 +354,8 @@
             	<h2 class="ftco-heading-2">Have a Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">India</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+12526480731</span></a></li>
 	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
 	              </ul>
 	            </div>

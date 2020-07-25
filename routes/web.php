@@ -17,7 +17,7 @@ use App\Http\Controllers;
 |
 */
 
-Route::get('/index', function () {
+Route::get('/', function () {
     return view('index');
 });
 
