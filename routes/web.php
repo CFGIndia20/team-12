@@ -5,6 +5,7 @@ use Illuminate\Support\Facades\Auth;
 use App\Category;
 use App\Citizen;
 use App\Complaint;
+use App\Http\Controllers;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -23,6 +24,9 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/home', 'ComplainController@index')->name('home');
+
+
 
 // Route::get('/citizen/{id}/complaint',function($id){
 //     $citizen = Citizen::find($id);
