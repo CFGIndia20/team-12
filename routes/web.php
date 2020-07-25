@@ -26,7 +26,7 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 Route::post('/complaint/{id}/complaint', 'ComplaintController@status');
 
-
+Route::resource('citizen', 'SMSsController');
 
 // Route::get('/citizen/{id}/complaint',function($id){
 //     $citizen = Citizen::find($id);

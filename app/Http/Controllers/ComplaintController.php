@@ -11,6 +11,6 @@ class ComplainController extends Controller
 {
     public function status($request)
     {
-            $complaint = Complaint::findOrFail($request)
+            $complaint = Complaint::findOrFail($request);
     }
 }
