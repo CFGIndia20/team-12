@@ -34,3 +34,6 @@ Route::resource('citizen', 'SMSsController');
 //         echo $compliant;
 //     }
 // });
+
+Route::get('/complaints','ComplaintController@index');
+
