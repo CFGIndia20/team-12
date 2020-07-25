@@ -22,8 +22,19 @@ Route::get('/', function () {
 });
 
 Route::get('/contact', function () {
-    return view('/contact');
+    return view('contact');
 });
+
+
+Route::get('/admin', function () {
+    return view('admin.dashboard');
+});
+
+
+Route::get('/table', function () {
+    return view('admin.table');
+});
+
 
 Auth::routes();
 
@@ -39,6 +50,6 @@ Route::resource('citizen', 'SMSsController');
 //     }
 // });
 
-Route::resource('complaints','ComplaintController');
+Route::resource('complaints', 'ComplaintController');
 
 Route::get('/complaints', 'ComplaintController@index');
