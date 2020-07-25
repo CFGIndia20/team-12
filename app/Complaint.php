@@ -17,11 +17,14 @@ class Complaint extends Model
         'complaint_status_id',
         'voteup_count'
     ];
-    public function citizen(){
+    public function citizen()
+    {
         return $this->belongsTo('App\Citizen');
     }
-    public function category(){
+
+
+    public function category()
+    {
         return $this->belongsTo('App\Category');
     }
-
 }

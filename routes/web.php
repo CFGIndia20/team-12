@@ -18,7 +18,11 @@ use App\Http\Controllers;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
+});
+
+Route::get('/contact', function () {
+    return view('/contact');
 });
 
 Auth::routes();
@@ -26,7 +30,7 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 Route::post('/complaint/{id}/complaint', 'ComplaintController@status');
 
-
+Route::resource('citizen', 'SMSsController');
 
 // Route::get('/citizen/{id}/complaint',function($id){
 //     $citizen = Citizen::find($id);
@@ -37,3 +41,4 @@ Route::post('/complaint/{id}/complaint', 'ComplaintController@status');
 
 Route::resource('complaints','ComplaintController');
 
+Route::get('/complaints', 'ComplaintController@index');
