@@ -28,9 +28,10 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
+
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container-fluid px-lg-5">
-	      <a class="navbar-brand" href="/index">Janaagraha: centre for citizenship and democracy</a>
+	      <a class="navbar-brand" href="/index">JANAAGRAHA: centre for citizenship and democracy</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -44,6 +45,8 @@
 	    </div>
 	  </nav>
     <!-- END nav -->
+
+
 
     <div class="hero-wrap" style="background-image: url('images/bg_4.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
@@ -65,7 +68,7 @@
     					<div class="col-lg-7">
     						<div class="text py-5 pl-md-4 pr-md-3">
     							<h2 class="mb-4">Janaagraha</h2>
-    							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
+    							<p>Make Your City Better. Start with your neighbourhood to bring the change. Improve your city and its quality of life.</p>
     							<p><a href="#" class="btn btn-primary py-3 px-4">Join now</a></p>
     						</div>
     					</div>
@@ -73,9 +76,9 @@
     			</div>
     			<div class="col-md-6 d-flex align-items-center bg-primary">
     				<div class="about-text px-3 py-5 pl-md-5 pr-md-5">
-    					<h2>Donation so far <br><span>$</span><strong class="number" data-number="380000">0</strong></h2>
+    					<h2>Issues solved <br><span></span><strong class="number" data-number="3800">0</strong></h2>
     					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-    					<p><a href="#" class="btn btn-black py-3 px-4">Donate now</a></p>
+    					<p><a href="#" class="btn btn-black py-3 px-4">Issue now</a></p>
     				</div>
     			</div>
     		</div>
@@ -98,8 +101,8 @@
             <div class="media block-6 text-center services active d-block">
               <div class="icon"><span class="flaticon-adoption"></span></div>
               <div class="media-body">
-                <h3 class="heading mb-3">Adoption</h3>
-                <p>A small river named Duden flows by their place and supplies.</p>
+                <h3 class="heading mb-3">Help desk</h3>
+                <p>Make Your City Better. Start with your neighbourhood to bring the change. Improve your city and its quality of life.</p>
               </div>
             </div>
           </div>
@@ -108,7 +111,7 @@
               <div class="icon"><span class="flaticon-volunteer"></span></div>
               <div class="media-body">
                 <h3 class="heading mb-3">Volunteering</h3>
-                <p>A small river named Duden flows by their place and supplies.</p>
+            <p>Make Your City Better. Start with your neighbourhood to bring the change. Improve your city and its quality of life.</p>
               </div>
             </div>
           </div>
@@ -117,7 +120,7 @@
               <div class="icon"><span class="flaticon-open-book"></span></div>
               <div class="media-body">
                 <h3 class="heading mb-3">Education</h3>
-                <p>A small river named Duden flows by their place and supplies.</p>
+                <p>Make Your City Better. Start with your neighbourhood to bring the change. Improve your city and its quality of life.</p>
               </div>
             </div>
           </div>
@@ -131,7 +134,7 @@
           <div class="col-md-7 heading-section text-center ftco-animate">
           	<span class="subheading">Foundation Grants Projects</span>
             <h2 class="mb-4">Gifts into Service Project that Change</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+            <p>Make Your City Better. Start with your neighbourhood to bring the change. Improve your city and its quality of life.</p>
           </div>
         </div>
         <div class="row justify-content-center ftco-animate">
@@ -146,12 +149,12 @@
 										<h2>65%</h2>
 									</div>
 									<div class="goal">
-										<p class="d-flex"><span>Collected:</span><span>$380,000</span></p>
-										<p class="d-flex"><span>Goal:</span><span>$600,000</span></p>
+										<p class="d-flex"><span>Collected:</span><span>3,800</span></p>
+										<p class="d-flex"><span>Goal:</span><span>6,000</span></p>
 									</div>
 								</div>
 								<div class="one text-md-right">
-									<p><a href="#" class="btn btn-primary">Donate now</a></p>
+									<p><a href="#" class="btn btn-primary">Issue now</a></p>
 								</div>
 							</div>
         		</div>
@@ -191,7 +194,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="809">0</strong>
-		                <span>Dedicated Donors</span>
+		                <span>Dedicated workers</span>
 		              </div>
 		            </div>
 		          </div>
@@ -207,7 +210,7 @@
 		            <div class="block-18 text-center">
 		              <div class="text">
 		                <strong class="number" data-number="35">0</strong>
-		                <span>Fun Raised</span>
+		                <span>complaints raised</span>
 		              </div>
 		            </div>
 		          </div>
@@ -232,14 +235,14 @@
               <div class="item">
                 <div class="testimony-wrap">
                   <div class="text">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="mb-4">Make Your City Better. Start with your neighbourhood to bring the change. Improve your city and its quality of life.</p>
                   </div>
                   <div class="d-flex align-items-center">
 	                  <div class="user-img" style="background-image: url(images/person_1.jpg)">
 	                  </div>
 	                  <div class="pos ml-3">
 	                  	<p class="name">Fernando Obiga</p>
-	                    <span class="position">Businessman</span>
+	                    <span class="position">Ambassador</span>
 	                  </div>
 	                </div>
                 </div>
@@ -247,14 +250,14 @@
               <div class="item">
                 <div class="testimony-wrap">
                   <div class="text">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="mb-4">Make Your City Better. Start with your neighbourhood to bring the change. Improve your city and its quality of life..</p>
                   </div>
                   <div class="d-flex align-items-center">
 	                  <div class="user-img" style="background-image: url(images/person_1.jpg)">
 	                  </div>
 	                  <div class="pos ml-3">
 	                  	<p class="name">Jeffrey Blatch</p>
-	                    <span class="position">Businessman</span>
+	                    <span class="position">Ambassador</span>
 	                  </div>
 	                </div>
                 </div>
@@ -269,7 +272,7 @@
 	                  </div>
 	                  <div class="pos ml-3">
 	                  	<p class="name">Henry Ford</p>
-	                    <span class="position">Businessman</span>
+	                    <span class="position">Ambassador</span>
 	                  </div>
 	                </div>
                 </div>
@@ -284,7 +287,7 @@
 	                  </div>
 	                  <div class="pos ml-3">
 	                  	<p class="name">Jeff Chan</p>
-	                    <span class="position">Businessman</span>
+	                    <span class="position">Ambassador</span>
 	                  </div>
 	                </div>
                 </div>
@@ -299,7 +302,7 @@
 	                  </div>
 	                  <div class="pos ml-3">
 	                  	<p class="name">Michael Bubble</p>
-	                    <span class="position">Businessman</span>
+	                    <span class="position">Ambassador</span>
 	                  </div>
 	                </div>
                 </div>
@@ -317,7 +320,7 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Aspiration</h2>
+              <h2 class="ftco-heading-2">Janaagraha</h2>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
@@ -330,7 +333,7 @@
             <div class="ftco-footer-widget mb-4 ml-md-5">
               <h2 class="ftco-heading-2">Information</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">Donation</a></li>
+                <li><a href="#" class="py-2 d-block">Issue</a></li>
                 <li><a href="#" class="py-2 d-block">Privacy</a></li>
                 <li><a href="#" class="py-2 d-block">Terms Condition</a></li>
               </ul>
@@ -342,8 +345,6 @@
               <ul class="list-unstyled">
                 <li><a href="#" class="py-2 d-block">Home</a></li>
                 <li><a href="#" class="py-2 d-block">Who we are</a></li>
-                <li><a href="#" class="py-2 d-block">Causes</a></li>
-                <li><a href="#" class="py-2 d-block">Blog</a></li>
                 <li><a href="#" class="py-2 d-block">Contact</a></li>
               </ul>
             </div>
@@ -364,9 +365,7 @@
         <div class="row">
           <div class="col-md-12 text-center">
 
-            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+
           </div>
         </div>
       </div>
