@@ -30,7 +30,7 @@
   <body>
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container-fluid px-lg-5">
-	      <a class="navbar-brand" href="/index">Aspiration</a>
+	      <a class="navbar-brand" href="/index">Janaagraha: centre for citizenship and democracy</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menu
 	      </button>
@@ -64,7 +64,7 @@
     				<div class="row no-gutters justify-content-end">
     					<div class="col-lg-7">
     						<div class="text py-5 pl-md-4 pr-md-3">
-    							<h2 class="mb-4">Aspiration Charity</h2>
+    							<h2 class="mb-4">Janaagraha</h2>
     							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
     							<p><a href="#" class="btn btn-primary py-3 px-4">Join now</a></p>
     						</div>
@@ -171,69 +171,7 @@
     	</div>
 		</section>
 
-    <section class="ftco-section ftco-causes">
-    	<div class="container">
-    		<div class="row justify-content-center pb-4">
-          <div class="col-md-10 heading-section text-center ftco-animate">
-            <h2 class="mb-4">Our Priorities</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-          </div>
-        </div>
-        <div class="row">
-        	<div class="col-md-4">
-        		<div class="causes causes-2 text-center ftco-animate">
-        			<div class="img" style="background-image: url(images/causes-1.jpg);"></div>
-        			<h2>Clean water for South Sudan</h2>
-        			<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-        			<div class="goal">
-        				<p><span>$3,800</span> to go</p>
-	        			<div class="progress" style="height:20px">
-								  <div class="progress-bar progress-bar-striped" style="width:70%; height:20px">70%</div>
-								</div>
-							</div>
-        		</div>
-        	</div>
-        	<div class="col-md-4">
-        		<div class="causes causes-2 text-center ftco-animate">
-        			<div class="img" style="background-image: url(images/causes-2.jpg);"></div>
-        			<h2>Home for Asias Child</h2>
-        			<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-        			<div class="goal">
-        				<p><span>$3,800</span> to go</p>
-	        			<div class="progress" style="height:20px">
-								  <div class="progress-bar progress-bar-striped" style="width:75%; height:20px">75%</div>
-								</div>
-							</div>
-        		</div>
-        	</div>
-        	<div class="col-md-4">
-        		<div class="causes causes-2 text-center ftco-animate">
-        			<div class="img" style="background-image: url(images/causes-3.jpg);"></div>
-        			<h2>Education for Asian School</h2>
-        			<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-        			<div class="goal">
-        				<p><span>$3,800</span> to go</p>
-	        			<div class="progress" style="height:20px">
-								  <div class="progress-bar progress-bar-striped" style="width:40%; height:20px">40%</div>
-								</div>
-							</div>
-        		</div>
-        	</div>
-        </div>
-        <div class="row intro mt-5 pt-md-4">
-        	<div class="col-md-4 ftco-animate">
-        		<h2><strong class="number" data-number="380000">0</strong></h2>
-        		<span>Waterless Drinking in Africa</span>
-        		<p class="mt-2"><a href="#" class="btn btn-primary">Start Donation</a></p>
-        	</div>
-        	<div class="col-md-8 ftco-animate">
-        		<div class="border-r">
-	        		<h4>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</h4>
-        		</div>
-        	</div>
-        </div>
-    	</div>
-    </section>
+
 
     <section class="ftco-counter ftco-section img" id="section-counter" style="background-image: url(images/bg_2.jpg);">
     	<div class="overlay"></div>
@@ -279,77 +217,6 @@
     	</div>
     </section>
 
-    <section class="ftco-section">
-    	<div class="container">
-    		<div class="row justify-content-center pb-5">
-          <div class="col-md-10 heading-section text-center ftco-animate">
-            <h2 class="mb-4">Recent Blog</h2>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-          </div>
-        </div>
-        <div class="row">
-        	<div class="col-md-6">
-        		<div class="blog-entry align-self-stretch ftco-animate">
-              <a href="blog-single.html" class="block-20 img" style="background-image: url('images/image_1.jpg');">
-              </a>
-              <div class="text text-2 bg-light">
-                <h3 class="heading mb-2"><a href="#">Advocating on behalf of abused and neglected</a></h3>
-                <div class="meta mb-2">
-                  <div><a href="#">Sept. 04, 2019</a></div>
-                  <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
-                </div>
-              </div>
-            </div>
-        	</div>
-        	<div class="col-md-6">
-        		<div class="blog-entry align-self-stretch d-md-flex bg-light p-3 align-items-center d-flex ftco-animate">
-              <a href="blog-single.html" class="block-20 thumb" style="background-image: url('images/image_2.jpg');">
-              </a>
-              <div class="text text-thumb d-block pl-2 pl-md-4">
-                <h3 class="heading mb-2"><a href="#">Gathering Books for Children</a></h3>
-                <div class="meta">
-                  <div><a href="#">Sept. 04, 2019</a></div>
-                  <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
-                </div>
-              </div>
-            </div>
-
-            <div class="blog-entry align-self-stretch d-md-flex bg-light p-3 align-items-center d-flex ftco-animate">
-              <a href="blog-single.html" class="block-20 thumb" style="background-image: url('images/image_3.jpg');">
-              </a>
-              <div class="text text-thumb d-block pl-2 pl-md-4">
-                <h3 class="heading mb-2"><a href="#">Access to Clean Water</a></h3>
-                <div class="meta">
-                  <div><a href="#">Sept. 04, 2019</a></div>
-                  <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
-                </div>
-              </div>
-            </div>
-
-            <div class="blog-entry align-self-stretch d-md-flex bg-light p-3 align-items-center d-flex ftco-animate">
-              <a href="blog-single.html" class="block-20 thumb" style="background-image: url('images/image_4.jpg');">
-              </a>
-              <div class="text text-thumb d-block pl-2 pl-md-4">
-                <h3 class="heading mb-2"><a href="#">Super typhoon Haiyan Disaster Relief</a></h3>
-                <div class="meta">
-                  <div><a href="#">Sept. 04, 2019</a></div>
-                  <div><a href="#">Admin</a></div>
-                  <div><a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a></div>
-                </div>
-              </div>
-            </div>
-        	</div>
-        </div>
-        <div class="row justify-content-center intro pt-4 pt-md-5">
-        	<div class="col-md-8 text-center">
-        		<h1 class="heading">Sponsorship <span>Scheme,</span> <span>Individual</span> and Corporate Entities Undertake</h1>
-        	</div>
-        </div>
-    	</div>
-    </section>
 
    	<section class="testimony-section bg-light">
       <div class="container">

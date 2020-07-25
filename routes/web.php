@@ -17,8 +17,12 @@ use App\Http\Controllers;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/index', function () {
+    return view('index');
+});
+
+Route::get('/contact', function () {
+    return view('/contact');
 });
 
 Auth::routes();
