@@ -17,15 +17,6 @@ use App\Http\Controllers;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
-Route::post('/complaint/{id}/complaint', 'ComplaintController@status');
-
 
 
 // Route::get('/citizen/{id}/complaint',function($id){
