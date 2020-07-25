@@ -17,7 +17,16 @@ use App\Http\Controllers;
 |
 */
 
+Route::get('/', function () {
+    return view('welcome');
+});
 
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+Route::post('/complaint/{id}/complaint', 'ComplaintController@status');
+
+Route::resource('citizen', 'SMSsController');
 
 // Route::get('/citizen/{id}/complaint',function($id){
 //     $citizen = Citizen::find($id);
@@ -25,3 +34,5 @@ use App\Http\Controllers;
 //         echo $compliant;
 //     }
 // });
+
+Route::get('/complaints', 'ComplaintController@index');
