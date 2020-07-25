@@ -18,6 +18,7 @@ class CreateComplaintsTable extends Migration
             $table->string('source')->default('Application');
             $table->integer('citizen_id')->default(0);
             $table->integer('category_id');
+            $table->integer('category_parent_id');
             $table->decimal('long', 10, 7)->nullable();
             $table->decimal('lat', 10, 7)->nullable();
             $table->string('location');

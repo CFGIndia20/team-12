@@ -10,6 +10,7 @@ class Complaint extends Model
         'source',
         'citizen_id',
         'category_id',
+        'category_parent_id',
         'long',
         'lat',
         'location',
