@@ -4,11 +4,13 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers;
+use App\Complaint;
+use App\Citizen;
 
 class ComplainController extends Controller
 {
-    public function index()
+    public function status($request)
     {
-        return view('home');
+            $complaint = Complaint::findOrFail($request)
     }
 }
