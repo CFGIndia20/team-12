@@ -4,3 +4,7 @@ Team*.zip
 *.crt
 *.key
 *.ovpn
+/server/node_modules/
+/server/ngrok
+/server/credentials.json
+/server/.env
