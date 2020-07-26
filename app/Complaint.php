@@ -16,7 +16,8 @@ class Complaint extends Model
         'location',
         'description',
         'complaint_status_id',
-        'voteup_count'
+        'voteup_count',
+        'civic_agency_id'
     ];
     public function citizen()
     {

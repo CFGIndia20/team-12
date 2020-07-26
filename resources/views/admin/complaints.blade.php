@@ -56,12 +56,6 @@
                         </div>
                         </a>
                     </li>
-                    <li class="nav-link">
-                        <div class="nav-link">
-                            <i class="nc-icon nc-pin-3"></i>
-                            <p>Location</p>
-                        </div>
-                    </li>
                 </ul>
             </div>
         </div>

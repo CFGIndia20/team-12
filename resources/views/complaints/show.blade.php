@@ -50,14 +50,22 @@
                                         </div>
                                     </div>
                             </div>
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <label>Location :</label>
-                                            <label>{{$complaint->location}}</label>
-                                        </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Location :</label>
+                                        <label>{{$complaint->location}}</label>
                                     </div>
                                 </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Location :</label>
+                                        <label>{{$complaint->civic_agency_id}}</label>
+                                    </div>
+                                </div>
+                            </div>
                             <a href='/complaints/{{$complaint->id}}/edit'>
                             <button class=' btn btn-info btn-fill pull-right'>Edit</button>
                             </a>

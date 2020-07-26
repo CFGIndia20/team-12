@@ -1,3 +1,5 @@
+@extends('layouts.app')
+@section('content')
 @extends('./admin.complaints')
 @section('content')
 <div class="content">
@@ -7,7 +9,7 @@
                 <div class="card ">
                     <div class="card-header ">
                         <h4 class="card-title"></h4>
-                        <p class="card-category">Top 3 type wise distribution</p>
+                        <p class="card-category">Top 3 category complaints</p>
                     </div>
                     <div class="card-body ">
                         <div id="chartPreferences" class="ct-chart ct-perfect-fourth"></div>
@@ -25,7 +27,7 @@
                 <div class="card ">
                     <div class="card-header ">
                         <h4 class="card-title"></h4>
-                        <p class="card-category">Type wise comparison</p>
+                        <p class="card-category">Major category complaints over time</p>
                     </div>
                     <div class="card-body ">
                         <div id="chartHours" class="ct-chart"></div>
@@ -84,4 +86,5 @@
 
     });
 </script>
+@endsection
 @endsection
