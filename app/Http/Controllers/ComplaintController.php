@@ -16,38 +16,9 @@ class ComplaintController extends Controller
      */
     public function index()
     {
-        $complaints = DB::table('complaints')->paginate(20);
+        $complaints = Complaint::orderBy('created_at','desc')->paginate(20);
         return view('complaints.view',compact('complaints'));
     }
-
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
-    {
-
-        //
-    }
-
-    /**
-     * Store a newly created resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @return \Illuminate\Http\Response
-     */
-    public function store(Request $request)
-    {
-        //
-    }
-
-    /**
-     * Display the specified resource.
-     *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
     public function show($id)
     {
         $complaint = Complaint::findOrFail($id);
@@ -85,16 +56,4 @@ class ComplaintController extends Controller
         return redirect('/complaints');
     }
 
-    /**
-     * Remove the specified resource from storage.
-     *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function destroy($id)
-    {
-
-        //
-
-    }
 }
