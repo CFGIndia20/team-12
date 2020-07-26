@@ -16,7 +16,7 @@ The motivation of building this solutions is to bring the values of *Participati
 ### Tech Stack Used
 
 - XGBoost Classifier
-- DigitalFlow
+- DialogFlow
 - Twilio Api
 - Laravel
 - Flask
