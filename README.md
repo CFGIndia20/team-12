@@ -19,6 +19,7 @@ The motivation of building this solutions is to bring the values of *Participati
 - DigitalFlow
 - Twilio Api
 - Laravel
+- Flask
 - Amazon Web Services
 - MySQL
 - Git/GitHub
