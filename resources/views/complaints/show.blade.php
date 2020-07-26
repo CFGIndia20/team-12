@@ -1,6 +1,6 @@
-
-@extends('admin.complaints')
+@extends('./admin.complaints')
 @section('content')  
+    
     <div class="content">
         <div class="container-fluid">
             <div class="row">

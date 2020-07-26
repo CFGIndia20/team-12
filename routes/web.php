@@ -2,10 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
-use App\Category;
-use App\Citizen;
-use App\Complaint;
-use App\Http\Controllers;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -25,7 +22,6 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-
 Route::get('/dashboard', function () {
     return view('analysis_dashboard.dashboard');
 });
@@ -33,7 +29,5 @@ Route::get('/dashboard', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
-
-Route::resource('citizen', 'SMSsController');
 
 Route::resource('complaints', 'ComplaintController');

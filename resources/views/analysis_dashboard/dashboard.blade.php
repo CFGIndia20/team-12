@@ -1,4 +1,4 @@
-@extends('admin.complaints')
+@extends('./admin.complaints')
 @section('content')
 <div class="content">
     <div class="container-fluid">
@@ -7,7 +7,7 @@
                 <div class="card ">
                     <div class="card-header ">
                         <h4 class="card-title"></h4>
-                        <p class="card-category">Type wise distribution</p>
+                        <p class="card-category">Top 3 type wise distribution</p>
                     </div>
                     <div class="card-body ">
                         <div id="chartPreferences" class="ct-chart ct-perfect-fourth"></div>
@@ -67,7 +67,6 @@
 <script src="js/core/jquery.3.2.1.min.js" type="text/javascript"></script>
 <script src="js/core/popper.min.js" type="text/javascript"></script>
 <script src="js/core/bootstrap.min.js" type="text/javascript"></script>
-<!--  Plugin for Switches, full documentation here: http://www.jque.re/plugins/version3/bootstrap.switch/ -->
 <script src="js/plugins/bootstrap-switch.js"></script>
 <!--  Google Maps Plugin    -->
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
@@ -81,7 +80,6 @@
 <script src="js/demo.js"></script>
 <script type="text/javascript">
     $(document).ready(function() {
-        // Javascript method's body can be found in assets/js/demos.js
         demo.initDashboardPageCharts();
 
     });
