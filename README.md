@@ -22,3 +22,8 @@ The motivation of building this solutions is to bring the values of *Participati
 - Amazon Web Services
 - MySQL
 - Git/GitHub
+
+_This respository contains three branches as:_
+* master: DialogFlow Integration & Service code
+* laravel: Dashboard related code
+* 
