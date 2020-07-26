@@ -25,6 +25,6 @@ The motivation of building this solutions is to bring the values of *Participati
 - Git/GitHub
 
 _This respository contains three branches as:_
-* master: DialogFlow Integration & Service code
-* laravel: Dashboard related code
-* Machine-learning: ML related code
+* master: DialogFlow Integration & Service code | ML Related Code
+* admin-dashboard: Dashboard related code
+* dashboard: Dashboard UI
