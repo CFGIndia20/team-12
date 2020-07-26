@@ -8,7 +8,7 @@ To design a technological solution which will leverage the use of existing syste
 - Provide a more accessible and easily available platform for registering complaints than Mobile application.
 <br>
 ____________________________________________
-<br>
+
 ### Motivation & Background
 Urban India suffers from a massive disconnect between citizens and local government, where even a small task, such as finding information to contact your local civic agency, becomes an ordeal. This is further complicated because of fragmentation between urban bodies and departments, and fundamentally, the lack of formal avenues for citizens to take part in local governance.
 
