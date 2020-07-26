@@ -1,4 +1,4 @@
-# TEAM 12: The Meraki REPOSITORY
+# TEAM 12: _The Meraki_ REPOSITORY
 
 ### _Janaagraha_ Problem Statement
 
